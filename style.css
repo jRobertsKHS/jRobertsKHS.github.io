@@ -125,8 +125,7 @@ nav {
 }
 
 /* responsive web design */
-@media screen and (min-width: 200px) and (max-
-width: 1080px);
+@media screen and (min-width: 200px) and (max-width: 1080px)
  {
   main {
     height: 120ch;
